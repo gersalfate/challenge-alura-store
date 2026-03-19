@@ -26,7 +26,7 @@ El análisis se estructuró en cuatro fases técnicas para garantizar la integri
 * **Librerías core:**
     * `pandas`: Limpieza, agregación de datos y manipulación de DataFrames.
     * `matplotlib` & `seaborn`: Generación de visualizaciones ejecutivas (barras, líneas de tendencia, diagramas de torta y scatter plots geográficos).
-* **Entorno:** Google Colab.
+* **Entorno:** Google Colab / Jupyter Notebook.
 
 ## 📈 Conclusiones estratégicas (Resumen ejecutivo)
 
