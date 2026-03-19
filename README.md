@@ -12,7 +12,7 @@ Este proyecto desarrolla un análisis de **Business Intelligence (BI)** para la 
 
 El análisis se estructuró en cuatro fases técnicas para garantizar la integridad de las conclusiones:
 
-1.  **ETL y normalización:** Consolidación de 4 fuentes de datos (datasets en formato csv) y estandarización de tipos de datos, incluyendo la conversión de series temporales para análisis cronológico.
+1.  **ETL y normalización:** Consolidación de 4 fuentes de datos (datasets en formato CSV) y estandarización de tipos de datos, incluyendo la conversión de series temporales para análisis cronológico.
 2.  **Análisis de tendencias:** Implementación de medias móviles (rolling mean de 6 meses) para suavizar la volatilidad estacional y visualizar la tendencia real de ingresos a largo plazo.
 3.  **Evaluación de KPIs críticos:**
     * **Facturación total:** Agregación de ingresos totales por sucursal.
