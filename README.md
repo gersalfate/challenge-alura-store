@@ -8,7 +8,7 @@
 
 Este proyecto desarrolla un análisis de **Business Intelligence (BI)** para la cadena "Alura Store Latam", realizado como parte del programa **Oracle Next Education (ONE)** de **Oracle + Alura Latam**. El objetivo estratégico es resolver un problema de optimización de activos: identificar, mediante evidencia cuantitativa, cuál de las 4 tiendas de la cadena presenta el desempeño más crítico para recomendar su venta estratégica al propietario (Sr. Juan).
 
-## 🚀 Metodología y lógica de ingeniería
+## 🚀 Metodología y lógica de negocio
 
 El análisis se estructuró en cuatro fases técnicas para garantizar la integridad de las conclusiones:
 
@@ -28,7 +28,7 @@ El análisis se estructuró en cuatro fases técnicas para garantizar la integri
     * `matplotlib` & `seaborn`: Generación de visualizaciones ejecutivas (barras, líneas de tendencia, diagramas de torta y scatter plots geográficos).
 * **Entorno:** Google Colab / Jupyter Notebook.
 
-## 📈 Conclusiones estratégicas (Resumen ejecutivo)
+## 📈 Hallazgos estratégicos (Insights)
 
 Tras el análisis multidimensional de las 4 sucursales, se determinó que la **Tienda 4** es la candidata óptima para la desinversión debido a los siguientes hallazgos:
 
